@@ -92,6 +92,7 @@ exclude:
 #  - legacy
 #  - yule
 
+#color_scheme: feeling_responsive
 color_scheme: feeling_responsive
 
 
